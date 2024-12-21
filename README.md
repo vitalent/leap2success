@@ -13,3 +13,6 @@ git push -f origin main
 click "add branch protection rule"
 add main
 add master
+
+
+Updated on Dec 21, 2024
